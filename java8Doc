@@ -1,0 +1,16 @@
+Java8 features:
+---------------
+1.LamdaExpression***
+2.Functional Interface
+3.Default methods in interface
+4.static methods in interface
+5.Some predefined Functional interfaces are there
+ they are:i)Predicate
+          ii)Function
+		  iii)Consumer
+i,ii,iii are the predefined Functional Interface;
+6. :: scope resoultion operator(C++)
+7.double coulmn operator is for method refernce and 
+  constructor refernce by double column operator(::);
+8.Stream API  :-To perform operations on Collections;**
+9.Date and Time API(introduced by joda.org)
